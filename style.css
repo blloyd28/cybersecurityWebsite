@@ -6,6 +6,9 @@ body{
 }
 a{
   color:slategrey;
+  background-color:white;
+  border-radius: 10px;
+  padding: 2px;
   
 }
 img{
